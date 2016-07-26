@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["anxiousmodernman", "jeffmay"]
 
 [dependencies]
+rustfmt = "0.5.0"
+yaml-rust = "*"
